@@ -35,7 +35,10 @@ Each folder contains its own `README.md` (technical report) and supporting files
 
 - **AC circuits** — capacitors and inductors in AC, frequency response observations, practical measurements  
   → [`Report`](02-ac-circuits/README.md)
-  
+
+- **RC / RL transient response** — time constants, step response, comparison of measured vs simulated waveforms  
+  → [`Report`](03-rc-rl-circuits/README.md)
+
 ---
 
 ## Tools
