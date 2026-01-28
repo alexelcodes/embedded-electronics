@@ -33,6 +33,9 @@ Each folder contains its own `README.md` (technical report) and supporting files
 - **DC circuits** — resistor networks, dividers, E12 selection, basic measurements  
   → [`Report`](01-dc-circuits/README.md)
 
+- **AC circuits** — capacitors and inductors in AC, frequency response observations, practical measurements  
+  → [`Report`](02-ac-circuits/README.md)
+  
 ---
 
 ## Tools
