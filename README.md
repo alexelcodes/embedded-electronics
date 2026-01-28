@@ -41,6 +41,9 @@ Each folder contains its own `README.md` (technical report) and supporting files
 
 - **Transistors** — BJT operation, NPN/PNP circuits, switching and simple driver stages, measurement vs simulation  
   → [`Report`](04-transistors/README.md)
+
+- **Operational amplifiers** — LM741: slew rate, non-inverting/inverting amps, summing amps, bandwidth; includes signal conditioning for ESP32 ADC range  
+  → [`Report`](05-op-amps/README.md)
   
 ---
 
