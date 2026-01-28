@@ -44,6 +44,9 @@ Each folder contains its own `README.md` (technical report) and supporting files
 
 - **Operational amplifiers** — LM741: slew rate, non-inverting/inverting amps, summing amps, bandwidth; includes signal conditioning for ESP32 ADC range  
   → [`Report`](05-op-amps/README.md)
+
+- **I2C LCD hacking** — I²C bus analysis with oscilloscope, PCF8574 address decoding, reconstructing LCD data/commands (HD44780 over I²C expander)  
+  → [`Report`](06-i2c-lcd-hacking/README.md)
   
 ---
 
