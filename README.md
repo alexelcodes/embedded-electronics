@@ -39,6 +39,9 @@ Each folder contains its own `README.md` (technical report) and supporting files
 - **RC / RL transient response** — time constants, step response, comparison of measured vs simulated waveforms  
   → [`Report`](03-rc-rl-circuits/README.md)
 
+- **Transistors** — BJT operation, NPN/PNP circuits, switching and simple driver stages, measurement vs simulation  
+  → [`Report`](04-transistors/README.md)
+  
 ---
 
 ## Tools
